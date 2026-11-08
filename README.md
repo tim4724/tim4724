@@ -1,4 +1,4 @@
-Android engineer in Fürth, Germany. I work on system apps in Android Automotive OS. Before that I was the lead developer of the Kinegram Mobile Chip SDK, Android and iOS libraries that verify electronic passports over NFC.
+Android engineer in Fürth, Germany. I work on system apps in Android Automotive OS. Before that I worked on the Kinegram Mobile Chip SDK, Android and iOS libraries that verify electronic passports over NFC.
 
 In my own time I build party games where phones are the controllers and a shared screen is the display:
 
